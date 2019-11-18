@@ -1,0 +1,47 @@
+= CM3 Documentation
+Betsoft
+v0.0.1, 2019-11-18
+:imagesdir: assets/images
+:homepage: https://betsoft.com
+:source-highlighter: coderay
+
+== Introduction
+
+Welcome to the Casino Manager user’s guide. This document serves as a handy reference for all the functionality that the Casino Manager provides.
+
+*What is the Casino Manager?*
+
+The Casino Manager is the command and control center for all of the games powered by Betsoft Gaming. This flexible and easy to use back office suite allows you to monitor and review every aspect of the Betsoft Gaming products your players enjoy. The Casino Manager is designed to be used in conjunction with your existing Back Office solution, and covers all aspects specific to the Betsoft software.
+
+=== Getting Started
+
+==== Requirements
+
+In order to use the Casino Manager you will need an approved web browser and the appropriate Java plugin for your browser and OS. The Casino Manager is designed to work with the following browsers:
+
+* Microsoft Edge
+* Mozilla Firefox (version X or higher)
+* Google Chrome (version X or higher)
+* Apple Safari (version X or higher)
+
+The Casino Manager works with Windows, Mac, and Linux.
+
+==== Logging In
+
+To begin using the Casino Manager you must first point your browser to the URL provided by your account manager, and use the provided login/password to access your Casino Manager account.
+
+After clicking “Login” you will be taken to the CM’s main interface.
+
+.This example shows the login screen
+image::loggingin.png[]
+
+==== Choosing a Report
+
+After logging in, you are taken to the default report: Player Search.
+At the left side of the Casino Manager interface is the main menu.
+Placing your cursor over any of the items listed in the menu will show you the reports and tools available under that category.
+Categories are broken up into 3 primary groups for organization:
+Management, Monitoring & Statistics, and Reports & Statistics.
+
+.This example shows the Main navigation menu
+image::2mainscreen.png[]
